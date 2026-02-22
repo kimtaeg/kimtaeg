@@ -1,9 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A4ADD8&height=300&section=header&text=Kim%20Tae%20Gyu&fontSize=90)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+---
+:office: Experience
+- UMC 9th — Android Junior
+  2025.09 ~ 2026.02
+---
+:satellite: GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitHub김태규)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 kimtaeg/kimtaeg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
