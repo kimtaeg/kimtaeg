@@ -5,7 +5,7 @@
   2025.09 ~ 2026.02
 ---
 :satellite: GitHub Stats
-[![김태규's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimtaeg)](https://github.com/kimtaeg)
+[![김태규's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimtg1017)](https://github.com/kimtg1017)
 <!---
 kimtaeg/kimtaeg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
