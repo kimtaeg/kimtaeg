@@ -2,6 +2,7 @@
 
 :office: Experience
 --
+- 가천대학교 컴퓨턱공학부 재학중
 - UMC 9th — Android Junior
 
   2025.09 ~ 2026.02
