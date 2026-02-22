@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=A4ADD8&height=300&section=header&text=Kim%20Tae%20Gyu&fontSize=90)
----
+
 :office: Experience
 --
 - UMC 9th — Android Junior
