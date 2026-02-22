@@ -6,6 +6,7 @@
   2025.09 ~ 2026.02
 ---
 :satellite: GitHub Stats
+
 [![김태규's GitHub stats](https://github-readme-stats-j5febknld-kimtaegs-projects.vercel.app/api?username=kimtaeg&show_icons=true&theme=transparent)](https://github.com/kimtaeg)
 
 [![Top Langs](https://github-readme-stats-j5febknld-kimtaegs-projects.vercel.app/api/top-langs/?username=kimtaeg&layout=compact&theme=transparent)](https://github.com/kimtaeg)
