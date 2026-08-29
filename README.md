@@ -18,5 +18,4 @@ kimtaeg/kimtaeg is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 ## 🏆 Awards
---
 - UMC 9th Demoday - Areumdap (아름답) : 최우수상 ('2026.02') Areumdap (아름답)
