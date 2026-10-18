@@ -18,12 +18,13 @@
 <br>
 
 ### 🌱 [Areumdap (아름답)](https://github.com/AreumDap/Areumdap-frontend)
-`2025.12 ~ 2026.02` · Android Front-end · 🏆 UMC 9th Demoday 최우수상
+`2025.12 ~ 2026.02` · Android Front-end 
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white"/>
 
 - 홈·캐릭터·아카이브 화면 구현 및 API 연동
 
+<br>
 <!---
 kimtaeg/kimtaeg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
