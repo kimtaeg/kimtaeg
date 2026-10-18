@@ -28,4 +28,6 @@ You can click the Preview link to take a look at your changes.
 
 ## :mailbox: Contact
 
-<a href="https://kimtg1017.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> <a href="mailto:kimtg011017@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+## :mailbox: Contact
+
+<a href="https://kimtg1017.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> <a href="mailto:kimtg011017@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="mailto:tank_1017@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
