@@ -13,19 +13,17 @@
 ### [MarketBridge (마켓브릿지)](https://github.com/market-bridge-project/MarketBridge-frontend)
 `2026.06 ~ 2026.07` · Web Front-end
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-
 - 검색·상세 페이지 UI 구현 및 API 연동
 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <br>
 
 ### [Areumdap (아름답)](https://github.com/AreumDap/Areumdap-frontend)
 `2025.12 ~ 2026.02` · Android Front-end 
 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white"/>
-
 - 홈·캐릭터·아카이브 화면 구현 및 API 연동
 
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white"/>
 <br>
 <!---
 kimtaeg/kimtaeg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
